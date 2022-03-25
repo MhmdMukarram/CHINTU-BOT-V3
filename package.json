@@ -1,14 +1,14 @@
 {
-  "name": "Toxic-Alexa",
+  "name": "CHINTU-BOT-V3",
   "version": "2.0.0",
-  "description": "Toxic-Alexa whatsapp bot provides a bunch of bgms and features to your whatsapp account.",
-  "main": "./Toxic-Alexa/bot.js",
+  "description": "Chintu Bot whatsapp bot provides a bunch of bgms and features to your whatsapp account.",
+  "main": "./CHINTU-BOT-V3/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TURBOHYPER/Toxic-Alexa.git"
+    "url": "git+https://github.com/MhmdMukarram/CHINTU-BOT-V3.git"
   },
   "keywords": [
     "WhatsApp",
@@ -19,7 +19,7 @@
   "developer": "Ameer suhail / @phaticusthiccy",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/TURBOHYPER/Toxic-Alexa/issues"
+    "url": "https://github.com/MhmdMukarram/CHINTU-BOT-V3/issues"
   },
   "homepage": "https://github.com/phaticusthiccy/WhatsAsenaDuplicated#readme",
   "dependencies": {
